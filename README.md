@@ -60,4 +60,5 @@ While the results do not outright suggest that a bike ride sharing app in Des Mo
 * Visualization of ride count versus user age. We could look at the most frequently occuring demogrpahics amongst users and see how they compare to the demographics of Des Moines.
 
 
-[link to story](https://public.tableau.com/app/profile/john.gutierrez7405/viz/NYCCitibikeAnalysis_16543770843820/NYCCitibikeAnalysis)
+### Link to Tableau Story
+[NYC CitiBike Analysis](https://public.tableau.com/app/profile/john.gutierrez7405/viz/NYCCitibikeAnalysis_16543770843820/NYCCitibikeAnalysis)
