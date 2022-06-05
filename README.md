@@ -58,3 +58,6 @@ While the results do not outright suggest that a bike ride sharing app in Des Mo
 **** Suggestions
 * Visualization of start and stop stations during peak usage hours. This could help answer our question of if most users are working commuters. 
 * Visualization of ride count versus user age. We could look at the most frequently occuring demogrpahics amongst users and see how they compare to the demographics of Des Moines.
+
+
+[link to story](https://public.tableau.com/app/profile/john.gutierrez7405/viz/NYCCitibikeAnalysis_16543770843820/NYCCitibikeAnalysis)
