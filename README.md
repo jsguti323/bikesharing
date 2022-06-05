@@ -53,3 +53,8 @@ Our goal is to open a bike sharing app in our hometown of Des Moines, Iowa. The 
 
 
 ## Summary
+While the results do not outright suggest that a bike ride sharing app in Des Moines, Iowa would be unsuccessful, the findings of this project also do not inspire very much confidence otherwise. The majority of the users are male subscribers and peak usage hours coincides with peak commuting hours in New York City. The fact that most users have deemed this service necessary to their daily lives that they have become regular subscribers, coupled with the fact that most rides occur during peak commuting times suggests that the majority of users use Citibike to commute to and from work. CitiBike owes a lot of it's success to working commuters in urban areas, a subpopulation that, by volume, is very common in New York City, but not so much in Des Moines. Therefore, we do not have enough data to suggest that a bike ride sharing app similar to CitiBike would be successful in Des Moines, Iowa, but that does not suggest that the data is not out there somewhere.
+
+**** Suggestions
+* Visualization of start and stop stations during peak usage hours. This could help answer our question of if most users are working commuters. 
+* Visualization of ride count versus user age. We could look at the most frequently occuring demogrpahics amongst users and see how they compare to the demographics of Des Moines.
