@@ -1,7 +1,7 @@
 # CitiBike Trip Data Analysis
 
 ## Overview
-Our goal is to open a bike sharing app in our hometown of Des Moines, Iowa. The inspiration of the project comes from the New York based bike sharing app, CitiBike. For us to determine whether or not our bike sharing app will work in Des Moines, Iowa, we must first try to understand how it works in New York City. We have taken a look at CitiBike ride data in the month of August, as August is a peak summer month and rides typically increase in number in the summer months. Once we analyze this data, we can determine which data is relevant to Des Moines and make out pitch.
+Our goal is to open a bike sharing app in our hometown of Des Moines, Iowa. The inspiration of the project comes from the New York based bike sharing app, CitiBike. For us to determine whether or not our bike sharing app will work in Des Moines, Iowa, we must first try to understand how it works in New York City. We have taken a look at CitiBike ride data in the month of August, as August is a peak summer month and rides typically increase in number in the summer months. Once we analyze this data, we can determine which data is relevant to Des Moines and make a pitch.
 
 ## Results
 
